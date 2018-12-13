@@ -22,3 +22,6 @@ MediaMuxer 一般步骤：
     writeSampleData
     3.释放
     release
+
+
+![Aaron Swartz](https://github.com/HiJohn/SeekBarTest/raw/master/mediaCodec.jpg）
