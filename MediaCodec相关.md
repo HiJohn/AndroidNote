@@ -24,4 +24,4 @@ MediaMuxer 一般步骤：
     release
 
 
-![Aaron Swartz](https://github.com/HiJohn/SeekBarTest/raw/master/mediaCodec.jpg）
+![image](https://github.com/HiJohn/SeekBarTest/raw/master/mediaCodec.jpg)
