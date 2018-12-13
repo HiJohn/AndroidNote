@@ -25,3 +25,4 @@ MediaMuxer 一般步骤：
 
 
 ![image](https://github.com/HiJohn/SeekBarTest/raw/master/mediaCodec.jpg)
+![image](https://github.com/HiJohn/AndroidNote/raw/master/MediaCodecWorkFlow.png)
