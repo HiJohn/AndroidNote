@@ -1,5 +1,9 @@
-1. Android 应用的整个生命周期，由其组件的生命周期组成 ，随着用户在各个界面切换，每个界面都经历“生死”的转换， 如Application，Activity ，Fragment，都有onDestroy方法，进入此方法后他们生命周期结束，应该被回收。
 
+---
+
+1. Android 应用的整个生命周期，由其组件的生命周期组成 ，随着用户在各个界面切换，每个界面都经历“生死”的转换， 如Application，Activity ，Fragment，都有onDestroy方法，进入此方法后他们生命周期结束，应该被回收。
+`
+`
 2.然后我们需要解决：如何得到未被回收的对象。ReferenceQueue+WeakReference+手动调用 GC可实现这个需求。
 
 `  WeakReference 创建时，传入一个 ReferenceQueue 对象。 
