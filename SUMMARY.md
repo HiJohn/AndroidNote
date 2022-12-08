@@ -10,3 +10,4 @@
 * [kotlin](kotlin.md)
 * [事件传递](事件传递.md)
 * [内存优化](内存优化.md)
+* [Gradle](gradle.md)
